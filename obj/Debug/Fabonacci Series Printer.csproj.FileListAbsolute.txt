@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Fabonacci Series Printer\Fabonacci Series Printer\bin\Debug\Fabonacci Series Printer.exe.config
+C:\Users\DELL\source\repos\Fabonacci Series Printer\Fabonacci Series Printer\bin\Debug\Fabonacci Series Printer.exe
+C:\Users\DELL\source\repos\Fabonacci Series Printer\Fabonacci Series Printer\bin\Debug\Fabonacci Series Printer.pdb
+C:\Users\DELL\source\repos\Fabonacci Series Printer\Fabonacci Series Printer\obj\Debug\Fabonacci Series Printer.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Fabonacci Series Printer\Fabonacci Series Printer\obj\Debug\Fabonacci Series Printer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Fabonacci Series Printer\Fabonacci Series Printer\obj\Debug\Fabonacci Series Printer.exe
+C:\Users\DELL\source\repos\Fabonacci Series Printer\Fabonacci Series Printer\obj\Debug\Fabonacci Series Printer.pdb
